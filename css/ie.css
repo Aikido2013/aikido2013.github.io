@@ -1,0 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300); 
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400); 
+@import url(//fonts.googleapis.com/css?family=Open+Sans:600); 
+a:hover .zoom{
+	display: block;
+}
+a .zoom{
+	display: none;
+}
